@@ -10,6 +10,8 @@ public void hello()
 System.out.println("JPET Store Application");
 System.out.println("Class name: Calculate.java");
 System.out.println("Hello World");
+System.out.println("Making a new Entry at Thu Nov 30 11:00:00 UTC 2017");
+System.out.println("Thu Nov 30 11:00:00 UTC 2017");
 System.out.println("Making a new Entry at Tue Nov 28 11:00:00 UTC 2017");
 System.out.println("Tue Nov 28 11:00:00 UTC 2017");
 System.out.println("Making a new Entry at Sun Nov 26 11:00:00 UTC 2017");
